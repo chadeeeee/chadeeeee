@@ -8,7 +8,7 @@
 I'm a Python Delevoper from Ukraine.
 - I write Telegram bots 🤖 and Django sites 🌐
 - For coding Telegram bots, I using framework aiogram
-- In my free time, I go cycling 🚴‍♂️
+- In my free time, I go cycling 🚲
 
 ### :bell: Contact with me :
 
